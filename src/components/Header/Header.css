@@ -1,0 +1,19 @@
+.myHeader {
+  display: flex;
+  justify-content: space-between;
+  font-size: 26px;
+  text-decoration: inherit;
+  color: black;
+  border-bottom: solid 1px gray;
+  padding: 10px;
+}
+.base {
+  padding: 10px;
+  text-decoration: none;
+}
+.homeHeader {
+  text-decoration: none;
+}
+.aboutHeader {
+  text-decoration: none;
+}
